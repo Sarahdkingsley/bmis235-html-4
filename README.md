@@ -1,15 +1,11 @@
-# BMIS 235 · HTML-3 · Links + CSS: Your Own Site
+# HTML-4: Sarah's Photography Gallery
+**By:** Sarah Kingsley (41795467)
+**Live site:** https://sarahdkingsley.github.io/bmis235-html-4/index.html
 
-**Name:** YOUR NAME
-**GU username:** YOUR-GU-USERNAME
+## My path
+Path 1 · By hand, I picked path 1 because I feel like I still wanted to explore and learn how to use github by hand instead of have AI doing all the code for me and then just copy and pasting it. 
 
-My live page: https://YOUR-GITHUB-USERNAME.github.io/bmis235-html-3/
-
-Instructions: https://gu-27.github.io/html-module/html-3.html
-
-## What's in this folder
-
-- `index.html` — your home page (keep this name)
-- `page1.html`, `page2.html`, `page3.html` — rename these to your own page names
-- `styles.css` — your brand: one file that styles every page linked to it
-- `img/` — your menu images (replace these with the ones you make in Excel)
+## By hand vs by AI
+**I made:** the pages, style, customzing the 3 blocks, page headers 
+**AI made:** I wanted to include some element of AI just to play around with so I had claude create a photo carousel and I implemented it into my home page. 
+**I checked it by:** I ran into a lot of struggles with getting things to work and look that way I wanted to. I fixed it all with trial and error. Testing out links and if it didn't work changing something than trying again. 
