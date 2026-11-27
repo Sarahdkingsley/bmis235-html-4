@@ -7,5 +7,5 @@ Path 1 · By hand, I picked path 1 because I feel like I still wanted to explore
 
 ## By hand vs by AI
 **I made:** the pages, style, customzing the 3 blocks, page headers 
-**AI made:** I wanted to include some element of AI just to play around with so I had claude create a photo carousel and I implemented it into my home page. 
+**AI made:** nothing
 **I checked it by:** I ran into a lot of struggles with getting things to work and look that way I wanted to. I fixed it all with trial and error. Testing out links and if it didn't work changing something than trying again. 
